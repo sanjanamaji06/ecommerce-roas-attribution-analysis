@@ -19,7 +19,7 @@ An end-to-end analytics and attribution project querying raw Google Analytics 4 
 ## 📊 Executive Dashboard
 
 ![Executive Dashboard Overview](dashboard_screenshot.png)
-*(View the complete 3-slide presentation deck: [presentation_deck.pdf](Search Ad Attribution & Campaign Budget Allocation Analysis.pdf))*
+*(View the complete 3-slide presentation deck: [presentation_deck.pdf](Search%20Ad%20Attribution%20%26%20Campaign%20Budget%20Allocation%20Analysis.pdf))*
 
 ---
 
